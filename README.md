@@ -58,7 +58,7 @@ The H-1B program allows U.S. employers to hire foreign workers in specialty occu
 
 ## 🛠️ Tools Used
 - **Power BI:** For data visualization and dashboard creation.  
-- **Power Query / Excel (optional):** For data cleaning and preprocessing.  
+- **Power Query / Excel:** For data cleaning and preprocessing.  
 
 ---
 

@@ -44,8 +44,7 @@ The H-1B program allows U.S. employers to hire foreign workers in specialty occu
 - Visuals include map points and state-aggregated bars.
 
 ### 📈 Approval vs Denial Trends
-- Volatility observed during 2017–2020 aligns with policy changes.  
-- Dashboard shows year-over-year approval counts and approval ratios.
+- Dashboard shows year-over-year approval counts.
 
 ---
 
